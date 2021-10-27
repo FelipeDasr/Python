@@ -1,0 +1,6 @@
+print(3 > 4)
+print(3 >= 2)
+print(5 != 3)
+print(4 == 1)
+print(4 < 9)
+print(6 <= 1)
